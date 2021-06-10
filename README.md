@@ -1,5 +1,5 @@
 # NPC_Navigaiton_Unity
-A C# script responsible for the health, navigation (based on its state and vision), attacking and damage calculation.  
+A C# script responsible for the health, navigation (based on the NPC's state and vision), attacking and damage calculation of the final boss of an FPS game.  
 
 ![Screenshot 2021-06-10 at 5 55 58 PM](https://user-images.githubusercontent.com/32577771/121547893-39eeb000-ca15-11eb-92fe-50786dbdaba8.png)
 
